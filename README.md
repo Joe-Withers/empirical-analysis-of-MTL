@@ -5,3 +5,4 @@ This project includes the experimental setting for testing different multi-task 
 
 # dependencies
 MALSAR 1.1
+https://github.com/jiayuzhou/MALSAR

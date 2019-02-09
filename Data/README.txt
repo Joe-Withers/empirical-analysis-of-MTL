@@ -1,0 +1,1 @@
+Includes the formatted real data sets. ./GeneratedData includes the toy data, generated from scripts in ../Code/Generating Data.

@@ -1,0 +1,1 @@
+MultiTaskLearning.m - the main object for running the methods. Includes code for cross validation. Uses the other functions for optimisations (using proximal AGD or gradient descent).

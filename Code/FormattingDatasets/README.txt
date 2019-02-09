@@ -1,0 +1,1 @@
+These scripts are used to format the original data sets to fit the multi-task learning problem domain. The formatted data is already included in /Data.
